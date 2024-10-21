@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "username": "dhenrichsen0",
+    "email": "zricard0@outlook.com",
+    "createdOn": "2024-01-09T18:59:59Z",
+    "comment": "The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela",
+    "likes": 11356,
+    "views": 4565347
+  },
+  {
+    "id": 2,
+    "username": "bwaden1",
+    "email": "bwadenburg1@hotmail.com",
+    "createdOn": "2024-02-18T10:15:18Z",
+    "comment": "The way to get started is to quit talking and begin doing.",
+    "likes": 17142,
+    "views": 3233366
+  },
+  {
+    "id": 3,
+    "username": "bicobo2",
+    "email": "mrose2@gmail.com",
+    "createdOn": "2024-01-31T21:43:48Z",
+    "comment": "Your time is limited, so don't waste it living someone else's life.",
+    "likes": 44852,
+    "views": 1456358
+  },
+  {
+    "id": 4,
+    "username": "sdaniad3",
+    "email": "jmcwaters3@gmail.com",
+    "createdOn": "2024-03-02T07:14:29Z",
+    "comment": "The future belongs to those who believe in the beauty of their dreams.",
+    "likes": 4115,
+    "views": 4614722
+  },
+  {
+    "id": 5,
+    "username": "slissandrini4",
+    "email": "pildford4@hotmail.com",
+    "createdOn": "2024-03-12T12:44:47Z",
+    "comment": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+    "likes": 26159,
+    "views": 2789450
+  },
+  {
+    "id": 6,
+    "username": "mchalker5",
+    "email": "eivimy5@newyorker.com",
+    "createdOn": "2024-04-07T10:12:20Z",
+    "comment": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+    "likes": 22488,
+    "views": 2369045
+  },
+  {
+    "id": 7,
+    "username": "todaro6",
+    "email": "vgoss6@chronoengine.com",
+    "createdOn": "2024-02-10T23:51:17Z",
+    "comment": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+    "likes": 36100,
+    "views": 3498026
+  },
+  {
+    "id": 8,
+    "username": "isleeford7",
+    "email": "hgillicuddy7@cam.ac.uk",
+    "createdOn": "2024-03-24T03:14:53Z",
+    "comment": "You must be the change you wish to see in the world.",
+    "likes": 47195,
+    "views": 954789
+  },
+  {
+    "id": 9,
+    "username": "mhurne8",
+    "email": "wlayzell8@gmail.com",
+    "createdOn": "2024-04-16T01:43:51Z",
+    "comment": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+    "likes": 1839,
+    "views": 4098059
+  },
+  {
+    "id": 10,
+    "username": "djewkes9",
+    "email": "aosanne9@eventbrite.com",
+    "createdOn": "2024-01-09T05:56:38Z",
+    "comment": "The only thing we have to fear is fear itself.",
+    "likes": 19133,
+    "views": 1210837
+  },
+  {
+    "id": 11,
+    "username": "rkivellea",
+    "email": "wcarnelleya@diigo.com",
+    "createdOn": "2024-01-27T04:21:36Z",
+    "comment": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "likes": 35108,
+    "views": 3651599
+  },
+  {
+    "id": 12,
+    "username": "lsauvageb",
+    "email": "lsauvage@bloglines.com",
+    "createdOn": "2024-03-20T08:15:01Z",
+    "comment": "Do one thing every day that scares you.",
+    "likes": 4582,
+    "views": 3340413
+  },
+  {
+    "id": 13,
+    "username": "kjorgen",
+    "email": "kjorgen@trellian.com",
+    "createdOn": "2024-02-01T12:31:35Z",
+    "comment": "Well done is better than well said. -Benjamin Franklin",
+    "likes": 2914,
+    "views": 3469840
+  },
+  {
+    "id": 14,
+    "username": "boseleyd",
+    "email": "mwhitecrossd@gmail.org",
+    "createdOn": "2024-03-03T00:08:13Z",
+    "comment": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "likes": 29890,
+    "views": 796283
+  },
+  {
+    "id": 15,
+    "username": "myurmanoveve",
+    "email": "bwaise@gmail.com",
+    "createdOn": "2024-03-03T15:07:50Z",
+    "comment": "It is during our darkest moments that we must focus to see the light.",
+    "likes": 47327,
+    "views": 2743144
+  },
+  {
+    "id": 16,
+    "username": "sbonnese",
+    "email": "sbonnese@themeforest.net",
+    "createdOn": "2024-04-04T07:34:08Z",
+    "comment": "Do not go where the path may lead, go instead where there is no path and leave a trail. ",
+    "likes": 27135,
+    "views": 3218873
+  },
+  {
+    "id": 17,
+    "username": "farhandun",
+    "email": "fdunsg@gmail.com",
+    "createdOn": "2024-01-22T05:41:27Z",
+    "comment": "Be yourself; everyone else is already taken. -Oscar Wilde",
+    "likes": 23536,
+    "views": 3740972
+  },
+  {
+    "id": 18,
+    "username": "lassenderh",
+    "email": "lassenderh@cyberchimps.com",
+    "createdOn": "2024-01-10T00:59:06Z",
+    "comment": "You will face many defeats in life, but never let yourself be defeated. -Maya Angelou",
+    "likes": 33547,
+    "views": 2066132
+  },
+  {
+    "id": 19,
+    "username": "aalmeidai",
+    "email": "aalmeidai@archive.org",
+    "createdOn": "2024-02-24T06:05:20Z",
+    "comment": "Go confidently in the direction of your dreams! Live the life you've imagined. ",
+    "likes": 3346,
+    "views": 2332281
+  },
+  {
+    "id": 20,
+    "username": "hornewillj",
+    "email": "hornewillj@gmail.com",
+    "createdOn": "2024-03-31T07:01:04Z",
+    "comment": "In the end, it's not the years in your life that count. It's the life in your years. ",
+    "likes": 16272,
+    "views": 4070848
+  },
+  {
+    "id": 21,
+    "username": "ftogherk",
+    "email": "jonowlank@illinois.edu",
+    "createdOn": "2024-01-15T21:56:06Z",
+    "comment": "Many of life's failures are people who did not realize how close they were to success when they gave up. ",
+    "likes": 22549,
+    "views": 2538241
+  },
+  {
+    "id": 22,
+    "username": "smanganl",
+    "email": "smanganl@apple.com",
+    "createdOn": "2024-04-16T23:23:00Z",
+    "comment": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+    "likes": 47980,
+    "views": 532378
+  },
+  {
+    "id": 23,
+    "username": "awolfarth",
+    "email": "awolfarth@opera.com",
+    "createdOn": "2024-02-22T08:53:08Z",
+    "comment": "Getting overwhelmed and stressed is a part of life. I feel my heart pound faster when I’m against tight deadlines at work or facing challenges outside of the office. These famous quotes remind me that life is beautiful and we should live it to the fullest.",
+    "likes": 5538,
+    "views": 1094818
+  },
+  {
+    "id": 24,
+    "username": "jjakovn",
+    "email": "jjakovn@gravatar.com",
+    "createdOn": "2024-02-07T01:02:06Z",
+    "comment": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma — which is living with the results of other people's thinking.",
+    "likes": 36968,
+    "views": 2357920
+  },
+  {
+    "id": 25,
+    "username": "hallardo",
+    "email": "arodero@gmail.com",
+    "createdOn": "2024-01-29T03:17:36Z",
+    "comment": "In three words I can sum up everything I've learned about life: it goes on.",
+    "likes": 22266,
+    "views": 4897180
+  },
+  {
+    "id": 26,
+    "username": "gralph",
+    "email": "sbompasp@about.com",
+    "createdOn": "2024-03-07T01:34:33Z",
+    "comment": "I’m a planner who loves to think ahead. But, even with all of my efforts, life throws me curveballs, and I need to figure out the best course of action.",
+    "likes": 34877,
+    "views": 3515701
+  },
+  {
+    "id": 27,
+    "username": "mbritonq",
+    "email": "mbritonq@hotmail.com",
+    "createdOn": "2024-02-06T01:40:52Z",
+    "comment": "Success is not final; failure is not fatal: It is the courage to continue that counts. -Winston S. Churchill",
+    "likes": 26792,
+    "views": 1130040
+  },
+  {
+    "id": 28,
+    "username": "triggolr",
+    "email": "triggolr@hotmail.com",
+    "createdOn": "2024-01-29T13:21:28Z",
+    "comment": "Who likes failure? When I make mistakes or don’t actualize my plans, I feel the sting. However, everyone experiences failure at some point in their life — even the most successful people. When I fail, I remind myself that great leaders learn from these setbacks. They never give up and push forward instead.",
+    "likes": 15589,
+    "views": 3161353
+  },
+  {
+    "id": 29,
+    "username": "bhackworths",
+    "email": "bhackworths@gmail.com",
+    "createdOn": "2024-01-28T08:27:33Z",
+    "comment": "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+    "likes": 33375,
+    "views": 1127239
+  },
+  {
+    "id": 30,
+    "username": "narduccit",
+    "email": "narduccit@parallels.com",
+    "createdOn": "2024-04-16T10:54:08Z",
+    "comment": "To be successful, you have to be selfish, or else you will never achieve. And once you get to your highest level, then you have to be unselfish.",
+    "likes": 25694,
+    "views": 2056286
+  },
+  {
+    "id": 31,
+    "username": "edufauru",
+    "email": "edufauru@vimeo.com",
+    "createdOn": "2024-02-24T00:36:54Z",
+    "comment": "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
+    "likes": 25867,
+    "views": 1639679
+  },
+  {
+    "id": 32,
+    "username": "kdawes",
+    "email": "kdawes@google.ca",
+    "createdOn": "2024-02-18T16:31:30Z",
+    "comment": "If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.",
+    "likes": 9276,
+    "views": 1479572
+  },
+  {
+    "id": 33,
+    "username": "wwilderw",
+    "email": "wwilderw@networkadvertising.org",
+    "createdOn": "2024-02-02T16:08:33Z",
+    "comment": "In playing ball and in life, a person occasionally gets the opportunity to do something great. When that time comes, only two things matter: being prepared to seize the moment and having the courage to take your best swing.",
+    "likes": 27513,
+    "views": 45970
+  },
+  {
+    "id": 34,
+    "username": "gcantrellx",
+    "email": "gfeversx@elegantthemes.com",
+    "createdOn": "2024-01-10T15:48:20Z",
+    "comment": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "likes": 48980,
+    "views": 1577100
+  },
+  {
+    "id": 35,
+    "username": "vdovey",
+    "email": "sivanyushiny@cpanel.net",
+    "createdOn": "2024-03-23T07:27:32Z",
+    "comment": "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
+    "likes": 18218,
+    "views": 4742530
+  },
+  {
+    "id": 36,
+    "username": "llocktonz",
+    "email": "llocktonz@gmail.com",
+    "createdOn": "2024-04-04T21:31:41Z",
+    "comment": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+    "likes": 41828,
+    "views": 3030847
+  },
+  {
+    "id": 37,
+    "username": "jboughey10",
+    "email": "khulcoop10@hhs.gov",
+    "createdOn": "2024-03-06T21:50:16Z",
+    "comment": "There are only so many hours in a day, so I try not to waste any of them. A big part of accomplishing my ambitious to-do list is staying motivated.",
+    "likes": 25159,
+    "views": 2233127
+  },
+  {
+    "id": 38,
+    "username": "jledekker",
+    "email": "jledekker11@gmail.com",
+    "createdOn": "2024-03-03T21:27:53Z",
+    "comment": "There is never enough time to do everything, but there is always enough time to do the most important thing.",
+    "likes": 3528,
+    "views": 144104
+  },
+  {
+    "id": 39,
+    "username": "goscallan",
+    "email": "goscallan12@facebook.com",
+    "createdOn": "2024-03-13T04:24:03Z",
+    "comment": "Lack of direction, not lack of time, is the problem. We all have twenty-four-hour days.",
+    "likes": 34358,
+    "views": 2108190
+  },
+  {
+    "id": 40,
+    "username": "arean13",
+    "email": "rcearley13@hotmail.com",
+    "createdOn": "2024-03-30T18:46:04Z",
+    "comment": "Sales are contingent upon the attitude of the salesman -- not the attitude of the prospect.",
+    "likes": 10788,
+    "views": 1378671
+  },
+  {
+    "id": 41,
+    "username": "madey14",
+    "email": "smerryfield14@gmail.com",
+    "createdOn": "2024-01-31T02:36:42Z",
+    "comment": "Everyone lives by selling something.",
+    "likes": 33703,
+    "views": 3125289
+  },
+  {
+    "id": 42,
+    "username": "dovendale",
+    "email": "dovendale15@microsoft.com",
+    "createdOn": "2024-02-29T15:59:46Z",
+    "comment": "The golden rule for every businessman is this: Put yourself in your customer's place.",
+    "likes": 30208,
+    "views": 4313019
+  },
+  {
+    "id": 43,
+    "username": "jfotheringham",
+    "email": "jfotheringham16@illinois.edu",
+    "createdOn": "2024-03-20T08:42:30Z",
+    "comment": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are. They are frank in admitting this and are willing to pay for such talents.",
+    "likes": 9354,
+    "views": 3289337
+  },
+  {
+    "id": 44,
+    "username": "htonkin17",
+    "email": "ithulborn17@walmart.com",
+    "createdOn": "2024-04-17T19:13:37Z",
+    "comment": "To be most effective in sales today, it's imperative to drop your 'sales' mentality and start working with your prospects as if they've already hired you.",
+    "likes": 9253,
+    "views": 2754861
+  },
+  {
+    "id": 45,
+    "username": "jpoulgreen18",
+    "email": "wtruelock18@gmail.com",
+    "createdOn": "2024-02-24T01:06:03Z",
+    "comment": "Pretend that every single person you meet has a sign around his or her neck that says, 'Make me feel important.' Not only will you succeed in sales, you will succeed in life.",
+    "likes": 3778,
+    "views": 365224
+  },
+  {
+    "id": 46,
+    "username": "ospurrett",
+    "email": "ospurrett19@gmail.com",
+    "createdOn": "2024-03-13T11:11:41Z",
+    "comment": "It's not just about being better. It's about being different. You need to give people a reason to choose your business.",
+    "likes": 30579,
+    "views": 3594376
+  },
+  {
+    "id": 47,
+    "username": "sspindler",
+    "email": "sspindler1@edublogs.org",
+    "createdOn": "2024-03-22T16:40:12Z",
+    "comment": "Whatever the mind of man can conceive and believe, it can achieve.",
+    "likes": 43777,
+    "views": 974370
+  },
+  {
+    "id": 48,
+    "username": "mhaughton1b",
+    "email": "lhaeslier1b@squarespace.com",
+    "createdOn": "2024-03-01T08:06:48Z",
+    "comment": "First, have a definite, clear, practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends: wisdom, money, materials, and methods. Third, adjust all your means to that end.",
+    "likes": 19289,
+    "views": 4557726
+  },
+  {
+    "id": 49,
+    "username": "iaseef",
+    "email": "iaseef1@happen.org",
+    "createdOn": "2024-01-27T06:49:37Z",
+    "comment": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+    "likes": 21363,
+    "views": 60070
+  },
+  {
+    "id": 50,
+    "username": "ejudkins",
+    "email": "ejudkins1d@google.edu",
+    "createdOn": "2024-03-24T17:51:25Z",
+    "comment": "It is still best to be honest and truthful; to make the most of what we have; to be happy with simple pleasures; and have courage when things go wrong.",
+    "likes": 2724,
+    "views": 4040734
+  }
+]
